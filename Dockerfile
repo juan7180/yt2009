@@ -16,7 +16,7 @@ USER node
 RUN npm install
 ENV YT2009_PORT=80 \
     YT2009_ENV=dev \
-    YT2009_IP=youtube09.onrender.com \
+    YT2009_IP=youtub09.onrender.com \
     YT2009_SSL=false \
     YT2009_SSLPORT=443 \
     YT2009_SSLPATH=/yt2009/cert.crt \
